@@ -13,6 +13,6 @@ The results of "Part 2" above are saved as top_200_school_zone_speed_plates.csv
 
 <br>- Python 3
   <h2>Licensing</h2>
-  All code in this repository is available under the MIT License. The data file in the output/ directory is available under the Creative Commons Attribution 4.0 International (CC BY 4.0) license. All files in the data/ directory are released into the public domain.
+ The data file in the output/ directory is available under the Creative Commons Zero v1.0 Universal license. All files in the data/ directory are released into the public domain.
   <h2>Feedback/Questions?</h2>
   Contact Cristina Ledra at cristina.ledra74@journalism.cuny.edu
