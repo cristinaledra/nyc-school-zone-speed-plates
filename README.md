@@ -2,12 +2,15 @@
 This repository contains data, analytic code and findings that support portions of the article, "[School zone speed cameras not a deterrent for worst repeat offenders](https://docs.google.com/document/d/1Luh9gk2ol8IDU_q2-kB7ZIDpLwF5prlDB-y5a8IrNkE/edit?usp=sharing)," published April 18, 2024. Please read that article, which contains important context and details, before proceeding.
 <h2>Data</h2>
 This analysis uses two spreadsheets with data from NYC Open Data.
-  <br>- sdfksldkjf
+  <br>- Open_Parking_and_Camera_Violations_20250417 (1).csv
   <br>- top_200_school_zone_speed_plates.csv
   <h2>Methodology</h2>
-  
+  <br>The notebook performs two analyses:
+  <br> Part 1: Collect all of the tickets issued for speeding in a school zone in New York City in 2024. This was filtered to New York license plates registered to passenger vehicles. 
+  <br>Part 2: Perform value count of each license plate in descending order.
+<br>Part 3: Sort to 200 license plates that were issued the most tickets for speeding in a school zone.
   <h2>Outputs</h2>
-The results of "Part 2" above are saved as top_200_school_zone_speed_plates.csv
+The results of "Part 3" above are saved as top_200_school_zone_speed_plates.csv
   <h2>Running the analysis yourself</h2>
   <br>You can run the analysis yourself. To do so, you'll need the following installed on your computer:
 
