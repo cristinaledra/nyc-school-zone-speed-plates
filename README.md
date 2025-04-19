@@ -5,7 +5,7 @@ This analysis uses two spreadsheets with data from NYC Open Data.
   <br>- Open_Parking_and_Camera_Violations_20250417 (1).csv
   <br>- top_200_school_zone_speed_plates.csv
   <h2>Methodology</h2>
-  <br>The notebook performs two analyses:
+  <br>The notebook Speed_zone_data.ipynb performs three analyses:
   <br> Part 1: Collect all of the tickets issued for speeding in a school zone in New York City in 2024. This was filtered to New York license plates registered to passenger vehicles. 
   <br>Part 2: Perform value count of each license plate in descending order.
 <br>Part 3: Sort to 200 license plates that were issued the most tickets for speeding in a school zone.
